@@ -1,1 +1,2 @@
-# Citi-Bike-Analytics-Tableau
+The Tableau workbook for this project can be found at https://public.tableau.com/profile/brendan.dowd#!/vizhome/TableauCitiBikeAnalysis/Dashboard1.
+There are some interesting observations from these visualizations. First, there is only a small difference in the median age of riders by gender. Predicatably, the age of users declines after riders' early 30s. Interestingly, few people younger than 22 use Citi Bikes. Some explanations for this could be age, money, need to travel far distances in the city.  
